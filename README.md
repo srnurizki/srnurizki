@@ -1,10 +1,26 @@
-# 👋 Hi there
+<h1 align="center">Hey 👋 What's Up?</h1>
+
+###
+
+<div align="center">
 
 Civil Engineering graduate transitioning into data science, with supervised learning models that **tripled projected BRT mode share (0.73% → 2.36%)** in a Surabaya transportation study. Built end-to-end AI/ML projects spanning computer vision, RAG systems, recommender systems, and MLOps through an intensive Dibimbing.id bootcamp. Seeking to leverage data science expertise to optimize business processes in Data Science or AI/ML Engineer roles.
 
----
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+</div>
+
+###
 
 ## 🛠 Tech Stack
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -27,21 +43,30 @@ Civil Engineering graduate transitioning into data science, with supervised lear
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat&logoColor=white)
 ![Google Earth Pro](https://img.shields.io/badge/Google%20Earth%20Pro-4285F4?style=flat&logo=googleearth&logoColor=white)
 
----
+</div>
+
+###
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srnurizki&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=2a2a2a&title_color=ff6b1a&icon_color=ff8c42&text_color=aaaaaa)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srnurizki&layout=compact&theme=dark&bg_color=0d0d0d&border_color=2a2a2a&title_color=ff6b1a&text_color=aaaaaa)
-
+  <img src="https://streak-stats.demolab.com?user=srnurizki&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://raw.githubusercontent.com/srnurizki/srnurizki/trophy-output/trophy.svg" height="150" alt="trophy graph" />
 </div>
 
----
+###
 
-## 🤝 Socials
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srnurizki&show_icons=true&theme=radical&hide_border=false&border_radius=5" height="150" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srnurizki&layout=compact&theme=radical&hide_border=false&border_radius=5" height="150" alt="top languages" />
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-srnurizki-2d2d2d?style=flat&logo=github&logoColor=white)](https://github.com/srnurizki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rynurizki-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rynurizki)
-[![Email](https://img.shields.io/badge/Email-sr.nurizki%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sr.nurizki@gmail.com)
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srnurizki/srnurizki/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srnurizki/srnurizki/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/srnurizki/srnurizki/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
