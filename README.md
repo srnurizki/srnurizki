@@ -55,6 +55,7 @@ As a career-shifting Data Scientist, I have forged my proficiency in AI/ML Engin
 | Institution | Program | Credentials |
 |---|---|---|
 | **Dibimbing.id** | Data Science and Machine Learning Bootcamp | TBA |
+| **HackerRank** | SQL Intermediate | [Link](https://www.hackerrank.com/certificates/a24b79c89bb0) |
 | **Dicoding** | Machine Learning Applications on Google Cloud | [Link](https://www.dicoding.com/academies/658-belajar-penerapan-machine-learning-dengan-google-cloud) |
 | **Dicoding** | Programming with Python | [Link](https://www.dicoding.com/certificates/ERZRL677NZYV) |
 | **Dicoding** | Structured Query Language (SQL) Fundamentals | [Link](https://www.dicoding.com/academies/600-belajar-dasar-structured-query-language-sql) |
